@@ -1,0 +1,10 @@
+D:\etec\algoritmo c#\Formula\Formula\obj\Debug\Formula.csprojAssemblyReference.cache
+D:\etec\algoritmo c#\Formula\Formula\obj\Debug\Formula.Form1.resources
+D:\etec\algoritmo c#\Formula\Formula\obj\Debug\Formula.Properties.Resources.resources
+D:\etec\algoritmo c#\Formula\Formula\obj\Debug\Formula.csproj.GenerateResource.cache
+D:\etec\algoritmo c#\Formula\Formula\obj\Debug\Formula.csproj.CoreCompileInputs.cache
+D:\etec\algoritmo c#\Formula\Formula\bin\Debug\Formula.exe.config
+D:\etec\algoritmo c#\Formula\Formula\bin\Debug\Formula.exe
+D:\etec\algoritmo c#\Formula\Formula\bin\Debug\Formula.pdb
+D:\etec\algoritmo c#\Formula\Formula\obj\Debug\Formula.exe
+D:\etec\algoritmo c#\Formula\Formula\obj\Debug\Formula.pdb
